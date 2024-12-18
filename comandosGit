@@ -1,0 +1,6 @@
+git init 
+git status 
+git add . (Agregar todo)
+git commit - m (Agregar un mensaje descriptivo)
+git status 
+git push (subir a git)
