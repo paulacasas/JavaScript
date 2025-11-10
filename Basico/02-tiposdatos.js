@@ -22,3 +22,10 @@ let nullValue = null; // Ausencia de valor
 let mySymbol = Symbol("mySymbol"); // Dato primitivo son valores únicos 
 
 console.log(name + " tiene " + age + " años");
+
+// Mostrar el tipo de dato
+console.log(typeof email);
+console.log(typeof age);
+console.log(typeof isStudent);
+console.log(typeof undefined);
+console.log(typeof nullValue); // Object
