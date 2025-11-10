@@ -13,4 +13,12 @@ let isTeacher = false;
 
 // Undefined 
 let undefined;
-console.log(undefined); // Sirve para 
+console.log(undefined); // Sirve para declarar una variable sin un valor concreto
+
+// Null
+let nullValue = null; // Ausencia de valor 
+
+// Symbol
+let mySymbol = Symbol("mySymbol"); // Dato primitivo son valores únicos 
+
+console.log(name + " tiene " + age + " años");

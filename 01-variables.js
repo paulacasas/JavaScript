@@ -16,7 +16,7 @@ console.log(helloWorld2);
 helloWorld2 = "Hola de nuevo, JavaScript 2";
 console.log(helloWorld2);
 
-// const
+// const (no se puede "modificar")
 const helloWorld3 = "Hello";
 console.log(helloWorld3);
 
